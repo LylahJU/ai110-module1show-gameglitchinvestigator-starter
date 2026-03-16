@@ -42,9 +42,8 @@ It wrote the code, ran away, and now the game is unplayable.
   - Expanded tests in test_game_logic.py to cover edge cases and ensure functions work correctly.
 
 ## 📸 Demo
-
-- [ ] [Insert a screenshot of your fixed, winning game here]
 ![alt text](<Screenshot 2026-03-15 at 10.14.17 PM.png>)
+
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
