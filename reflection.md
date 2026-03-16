@@ -8,6 +8,14 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
+  The hints were wrong (didn't properly compare the input with the secret number). I expect the game to tell me to Go HIGHER when my guess is too low and Go LOWER when my guess is to high, but it hints to go in the wrong direction, further from the secret. 
+  
+  The game didn't check the guesses/inputs were in the appropriate range. I expected the game to only accept integers in the range of 1-50 for normal, 1-100 for hard, and 1-20 for easy, but it accepted numbers out of the respective ranges as well. 
+
+  The number of guesses attempted doesn't reset between games, so a new game isn't possible without restarting the app since you start a new game with guesses already used up. I expected the attempts to reset between games.
+
+  I also changed the number of guesses associated with each difficulty. 
+
 ---
 
 ## 2. How did you use AI as a teammate?
